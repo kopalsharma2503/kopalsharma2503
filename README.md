@@ -15,7 +15,7 @@
 
 I'm a passionate AI & Machine Learning Engineer with expertise in developing end-to-end machine learning solutions. I enjoy tackling complex problems and building systems that make a meaningful impact. My research interests include deep learning, computer vision, and natural language processing.
 
-## Top Projects
+## Top Projects:
 
 <div align="center">
   <a href="https://github.com/yourusername/project1">
